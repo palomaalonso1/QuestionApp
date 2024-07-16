@@ -19,7 +19,7 @@ struct ContentView: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .cornerRadius(15)
-                Text("Welcome to the Celebrity Quiz!")
+                Text("Welcome to the Celebrity Quiz!!")
                             .fontWeight(.bold)
                             .foregroundColor(Color.black)
                             .multilineTextAlignment(.center)
